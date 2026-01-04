@@ -1,0 +1,7 @@
+{
+  "name": "Napoleon Hill: Think & Grow Positive",
+  "description": "A high-performance coaching app featuring an AI reincarnation of Napoleon Hill to help users master their mindset and achieve success through positive thinking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
